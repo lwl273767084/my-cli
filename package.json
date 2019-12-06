@@ -1,7 +1,7 @@
 {
-  "name": "my-cli",
-  "version": "1.0.0",
-  "description": "my first cli",
+  "name": "{{ projectName }}",
+  "version": "{{ projectVersion  }}",
+  "description": "{{ projectDescription }}",
   "main": "src/index.js",
   "bin": {
     "macaw": "./bin/macaw.js"
