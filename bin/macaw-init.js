@@ -79,7 +79,6 @@ function go() {
       },
       {
         name: 'projectDescription',
-        
         message: '请输入项目简介',
         default: `a project named ${context.name}`
       }

@@ -1,7 +1,7 @@
 {
-  "name": "{{ projectName }}",
-  "version": "{{ projectVersion  }}",
-  "description": "{{ projectDescription }}",
+  "name": "lwl",
+  "version": "1.0.1",
+  "description": "1213",
   "main": "src/index.js",
   "bin": {
     "macaw": "./bin/macaw.js"
