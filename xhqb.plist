@@ -1,0 +1,49 @@
+	<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+	<plist version="1.0">
+	<dict>
+    	<key>items</key>
+    	<array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/lwl273767084/my-cli/blob/master/com.puhui.xhqb.ipa</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://github.com/lwl273767084/my-cli/blob/master/logo.png</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://github.com/lwl273767084/my-cli/blob/master/logo.png</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.puhui.xhqb</string>
+                <key>bundle-version</key>
+                <string>1.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>subtitle</key>
+                <string>install app</string>
+                <key>title</key>
+                <string>小恒钱包</string>
+            </dict>
+        </dict>
+    	</array>
+	</dict>
+	</plist>
